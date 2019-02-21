@@ -19,4 +19,10 @@ var bear = {
     noisy: true,
     deadly:true
 };
-document.write(bird[0]);
+var bookOfKnowlwdge =
+{
+    "launch time": "12.30 PM",
+    "the ultimate answer": 42,
+    bestSong: "Lonnie's Lament",
+    earth: "Mostly harmless"
+};
